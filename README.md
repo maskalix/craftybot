@@ -4,6 +4,9 @@
 - used to control https://craftycontrol.com servers
 - docker image on [maskalicz/craftybot](https://hub.docker.com/repository/docker/maskalicz/craftybot)
 
+## How it works?
+- slash command /serverinfo in any Discord channel you invited your bot to :)
+  
 ## What is needed?
 - crafty username
 - crafty password
