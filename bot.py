@@ -14,7 +14,7 @@ CRAFTY_PASSWORD = os.getenv("CRAFTY_PASSWORD")
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 CRAFTY_SERVER_ID = os.getenv("CRAFTY_SERVER_ID")
 CRAFTY_SERVER_URL = os.getenv("CRAFTY_SERVER_URL")
-CRAFTY_SERVER_TYPE = os.getenv("CRAFTY_SERVER_ID")
+CRAFTY_SERVER_TYPE = os.getenv("CRAFTY_SERVER_TYPE")
 
 if not all([BOT_TOKEN, CRAFTY_API_BASE_URL, CRAFTY_USERNAME, CRAFTY_PASSWORD, CRAFTY_SERVER_ID]):
     raise ValueError("❌ Missing environment variables. Please check your .env file.")
