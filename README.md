@@ -2,6 +2,7 @@
 *Unofficial, fan project, not affiliated with Crafty Controller*
 
 - used to control https://craftycontrol.com servers
+- docker image on [maskalicz/craftybot](https://hub.docker.com/repository/docker/maskalicz/craftybot)
 
 ## What is needed?
 - crafty username
