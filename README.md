@@ -29,8 +29,8 @@ CRAFTY_API_BASE_URL= # with protocol (http://), without end slash (/), if IP use
 CRAFTY_SERVER_ID=
 CRAFTY_USERNAME=
 CRAFTY_PASSWORD=
-CRAFTY_SERVER_URL=
-CRAFTY_SERVER_TYPE=
+CRAFTY_SERVER_URL= # Info for users, IP/URL of the server
+CRAFTY_SERVER_TYPE= # Info for users, fill here Forge, Spigot or whatever you running
 ```
 
 then just ``docker compose up -d``
