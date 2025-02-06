@@ -1,7 +1,7 @@
 services:
   discord-bot:
     build: .
-    container_name: mc_bot
+    container_name: craftybot
     restart: unless-stopped
     env_file:
       - .env
