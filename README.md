@@ -2,7 +2,7 @@
 *Unofficial, fan project, not affiliated with Crafty Controller*
 
 - used to control https://craftycontrol.com servers
-- docker image on [maskalicz/craftybot](https://hub.docker.com/repository/docker/maskalicz/craftybot)
+- docker image on [maskalicz/craftybot](https://hub.docker.com/r/maskalicz/craftybot)
 
 ## How it works?
 - slash command /serverinfo in any Discord channel you invited your bot to :)
